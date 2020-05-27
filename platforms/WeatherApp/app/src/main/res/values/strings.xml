@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="temperature_name">Teamperature</string>
+    <string name="city_name">Moncton</string>
+    <string name="wind_speed_name">Wind Speed</string>
+
+    <string name="temperature_id">Teamperature</string>
+    <string name="city_id">Moncton</string>
+    <string name="wind_speed_id">Wind Speed</string>
+</resources>
