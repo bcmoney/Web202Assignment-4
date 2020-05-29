@@ -1,5 +1,5 @@
 /* Take your pick of API-based or local Map solutions */
-var API_KEY = "AIzaSyDuumFZY8C98VnBoTfCD9JqS4hbnz89W-M"; //Google Maps: https://developers.google.com/maps/documentation/javascript/get-api-key
+var API_KEY = "AIzaSyBBdTd_SZqlQ-K37-2c9psnK8CFnFvGuXY"; //Google Maps: https://developers.google.com/maps/documentation/javascript/get-api-key
 
 
 /* *************************************************************** *
